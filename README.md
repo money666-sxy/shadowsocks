@@ -1,1 +1,1 @@
-shadowsocks for cube
+shadowsocks for docker
